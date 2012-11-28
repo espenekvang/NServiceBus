@@ -1,0 +1,144 @@
+2012-11-27 08:28:21,492 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 08:28:21,633 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 08:28:21,648 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 08:28:21,648 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:28:21,648 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:28:24,675 [7] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 08:30:25,258 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 08:30:25,383 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 08:30:25,398 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 08:30:25,398 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:30:25,398 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:30:28,347 [7] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 08:30:42,246 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 08:30:42,402 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 08:30:42,402 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 08:30:42,418 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:30:42,418 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:30:45,460 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 08:38:28,133 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 08:38:28,274 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 08:38:28,289 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 08:38:28,289 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:38:28,289 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:38:31,815 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 08:42:18,775 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 08:42:18,900 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 08:42:18,915 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 08:42:18,915 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:42:18,915 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:42:22,051 [7] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 08:45:05,379 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 08:45:05,520 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 08:45:05,520 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 08:45:05,535 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 08:45:05,535 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:50:29,262 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:50:29,402 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:50:29,402 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:50:29,418 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:50:29,418 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:50:39,059 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:50:39,183 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:50:39,199 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:50:39,199 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:50:39,215 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:50:42,974 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 09:51:21,527 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:51:21,652 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:51:21,652 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:51:21,667 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:51:21,667 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:51:24,631 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 09:53:21,086 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:53:21,242 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:53:21,242 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:53:21,257 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:53:21,257 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:54:23,330 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:54:23,486 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:54:23,486 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:54:23,501 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:54:23,501 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:54:26,637 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 09:55:05,403 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:55:05,544 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:55:05,559 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:55:05,559 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:55:05,559 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:55:08,648 [7] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-27 09:55:43,391 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:55:43,516 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:55:43,516 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:55:43,531 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:55:43,531 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:56:13,780 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:56:13,936 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:56:13,936 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:56:13,951 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:56:13,951 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:57:50,219 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 09:57:50,359 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 09:57:50,375 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 09:57:50,391 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 09:57:50,391 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 10:00:42,832 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 10:00:42,988 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 10:00:43,004 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 10:00:43,020 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 10:00:43,020 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 10:00:44,439 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.AggregateException: One or more errors occurred. ---> System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73
+   --- End of inner exception stack trace ---
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 27
+   at Raven.Client.Document.DocumentStore.Initialize() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 402
+   at NServiceBus.ConfigureRavenPersistence.EnsureDatabaseExists(DocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 189
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config, IDocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 150
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 54
+   at NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler.NServiceBus.Hosting.Profiles.IHandleProfile.ProfileActivated() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting.Windows\Profiles\Handlers\ProductionProfileHandler.cs:line 13
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Hosting.Profiles.ProfileManager.ActivateProfileHandlers() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 143
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Configure.Initialize() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 293
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 28
+---> (Inner Exception #0) System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73<---
+
+2012-11-27 10:01:05,140 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 10:01:05,265 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 10:01:05,281 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 10:01:05,281 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 10:01:05,281 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 10:01:07,746 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.AggregateException: One or more errors occurred. ---> System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73
+   --- End of inner exception stack trace ---
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 81
+   at Raven.Client.Document.DocumentStore.RecoverPendingTransactions() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 410
+   at Raven.Client.Document.DocumentStore.Initialize() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 402
+   at NServiceBus.ConfigureRavenPersistence.EnsureDatabaseExists(DocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 186
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config, IDocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 150
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 54
+   at NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler.NServiceBus.Hosting.Profiles.IHandleProfile.ProfileActivated() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting.Windows\Profiles\Handlers\ProductionProfileHandler.cs:line 13
+   at NServiceBus.Hosting.Profiles.ProfileManager.<ActivateProfileHandlers>b__1c(IHandleProfile hp) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 143
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Hosting.Profiles.ProfileManager.ActivateProfileHandlers() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 144
+   at NServiceBus.Hosting.Profiles.ProfileActivator.Run() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileActivator.cs:line 20
+   at NServiceBus.Configure.<Initialize>b__c(Type t) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 296
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Configure.ForAllTypes[T](Action`1 action) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 317
+   at NServiceBus.Configure.Initialize() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 299
+   at NServiceBus.Configure.CreateBus() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 263
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+---> (Inner Exception #0) System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73<---
+
+2012-11-27 10:01:52,445 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-27 10:01:52,586 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-27 10:01:52,586 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-27 10:01:52,601 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 10:01:52,601 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-27 10:01:56,454 [15] INFO  MessageSender [(null)] <(null)> - Sent message.

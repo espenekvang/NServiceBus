@@ -1,0 +1,10 @@
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\SecurityServiceAdapter.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\SecurityServiceAdapter.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.Core.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.xml
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.Core.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\bin\Debug\NServiceBus.Core.xml
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\obj\Debug\SecurityServiceAdapter.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\SecurityServiceAdapter\obj\Debug\SecurityServiceAdapter.pdb

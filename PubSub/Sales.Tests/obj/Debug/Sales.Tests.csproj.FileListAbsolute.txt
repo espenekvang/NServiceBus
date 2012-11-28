@@ -1,0 +1,16 @@
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\Sales.Tests.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\Sales.Tests.pdb
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\log4net.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.Core.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.Testing.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\nunit.framework.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\log4net.xml
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.pdb
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.xml
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.Core.pdb
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.Core.xml
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\NServiceBus.Testing.pdb
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\bin\Debug\nunit.framework.xml
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\obj\Debug\Sales.Tests.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Sales.Tests\obj\Debug\Sales.Tests.pdb

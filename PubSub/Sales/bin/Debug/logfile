@@ -1,0 +1,127 @@
+2012-11-28 11:16:56,619 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:16:56,683 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:16:56,813 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:16:56,821 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:16:56,828 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:16:56,829 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:17:00,893 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales.retries does not exist.
+2012-11-28 11:17:00,894 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales.retries
+2012-11-28 11:17:01,016 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales.timeouts does not exist.
+2012-11-28 11:17:01,017 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales.timeouts
+2012-11-28 11:17:01,130 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales.timeoutsdispatcher does not exist.
+2012-11-28 11:17:01,131 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales.timeoutsdispatcher
+2012-11-28 11:17:01,235 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales does not exist.
+2012-11-28 11:17:01,237 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales
+2012-11-28 11:17:44,318 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:17:44,381 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:17:44,506 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:17:44,512 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:17:44,519 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:17:44,521 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:20:42,240 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:20:42,302 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:20:42,434 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:20:42,441 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:20:42,448 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:20:42,449 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:25:57,077 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:25:57,143 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:25:57,281 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:25:57,288 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:25:57,296 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:25:57,297 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:26:30,402 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:26:30,467 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:26:30,599 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:26:30,606 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:26:30,614 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:26:30,615 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:27:47,914 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:27:47,980 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:27:48,119 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:27:48,126 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:27:48,134 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:27:48,135 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:28:37,424 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:28:37,492 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:28:37,628 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:28:37,635 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:28:37,643 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:28:37,644 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:29:57,830 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:29:57,896 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:29:58,034 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:29:58,042 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:29:58,049 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:29:58,051 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:30:34,318 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:30:34,384 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:30:34,521 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:30:34,528 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:30:34,536 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:30:34,537 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:30:43,048 [Worker.14] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 11:31:09,649 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 11:31:09,713 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 11:31:09,847 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 11:31:09,854 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 11:31:09,861 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:31:09,863 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 11:31:15,496 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 12:45:07,077 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 12:45:07,139 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 12:45:07,202 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 12:45:07,209 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 12:45:07,216 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:45:07,218 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:46:24,825 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 12:46:24,889 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 12:46:24,956 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 12:46:24,964 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 12:46:24,972 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:46:24,973 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:46:28,419 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue sales@nsb4
+2012-11-28 12:46:29,650 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing sales@nsb4 to message type Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 12:46:29,876 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 12:46:53,982 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 12:46:54,045 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 12:46:54,111 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 12:46:54,120 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 12:46:54,127 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:46:54,128 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:46:57,523 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue sales@nsb4
+2012-11-28 12:47:04,320 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing sales@nsb4 to message type Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 12:47:41,597 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 12:49:27,662 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 12:49:27,728 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 12:49:27,797 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 12:49:27,805 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 12:49:27,813 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:49:27,814 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:49:31,202 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-28 12:49:34,466 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 12:49:41,727 [Worker.12] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - CustomerStatusUpdatedHandler failed handling message.
+System.NotImplementedException: The method or operation is not implemented.
+   at Sales.Handlers.CustomerStatusUpdatedHandler.Handle(CustomerStatusUpdated message) in c:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\PubSub\Sales\Handlers\CustomerStatusUpdatedHandler.cs:line 10
+2012-11-28 12:49:41,767 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\2127
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-28 12:53:10,495 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 12:53:10,560 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 12:53:10,627 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 12:53:10,634 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 12:53:10,642 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:53:10,643 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:53:14,128 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-28 12:53:16,368 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-28 12:55:54,858 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-28 12:55:54,925 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-28 12:55:54,995 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-28 12:55:55,005 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-28 12:55:55,013 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:55:55,017 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-28 12:55:58,518 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-28 12:56:00,856 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null

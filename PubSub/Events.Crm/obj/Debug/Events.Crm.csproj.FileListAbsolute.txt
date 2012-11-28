@@ -1,0 +1,12 @@
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\Events.Crm.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\Events.Crm.pdb
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\log4net.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\NServiceBus.Core.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\NServiceBus.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\log4net.xml
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\NServiceBus.pdb
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\NServiceBus.xml
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\NServiceBus.Core.pdb
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\bin\Debug\NServiceBus.Core.xml
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\obj\Debug\Events.Crm.dll
+c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events.Crm\obj\Debug\Events.Crm.pdb

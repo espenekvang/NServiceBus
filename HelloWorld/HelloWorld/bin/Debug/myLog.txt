@@ -1,0 +1,164 @@
+2012-11-26 08:45:45,801 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 08:45:45,941 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured IncomingReturnMessageMutator
+2012-11-26 08:45:45,941 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured Transport Incoming Message Mutator: IncomingSubscriptionMessageMutator
+2012-11-26 08:45:45,957 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 08:45:45,972 [1] DEBUG NServiceBus.Licensing.LicenseManager [(null)] <(null)> - First time running NServiceBus v3.3, setting trial license start.
+2012-11-26 08:45:45,972 [1] DEBUG NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Trial for NServiceBus v3.3 is still active, trial expires on 10.12.2012.
+2012-11-26 08:45:45,972 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 08:45:45,972 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:45,988 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:45,988 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.PerformanceCountersProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:45,988 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:47,907 [1] DEBUG NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Associated 'NServiceBus.Scheduling.Messages.ScheduledTask' message with 'NServiceBus.Scheduling.ScheduledTaskMessageHandler' handler
+2012-11-26 08:45:47,922 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Scheduling.Messages.ScheduledTask, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:47,922 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: TaskId
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Unicast.Transport.CompletionMessage, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ErrorCode
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ISagaMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ITimeoutState, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.TimeoutMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Expires
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: State
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ClearTimeout
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.EncryptedValue, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: EncryptedBase64Value
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Base64Iv
+2012-11-26 08:45:47,938 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:45:48,437 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: error@nsb4.
+2012-11-26 08:45:48,453 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:45:48,546 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.retries@nsb4.
+2012-11-26 08:45:48,546 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:45:48,609 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeouts@nsb4.
+2012-11-26 08:45:48,609 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:45:48,687 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeoutsdispatcher@nsb4.
+2012-11-26 08:45:48,687 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:45:48,780 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld@nsb4.
+2012-11-26 08:45:48,780 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:45:48,858 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Throttling on message receiving rate is not limited by licensing policy.
+2012-11-26 08:45:48,905 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld@nsb4].
+2012-11-26 08:45:49,170 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling for timeouts at 11/26/2012 08:45:49.
+2012-11-26 08:45:49,170 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeoutsdispatcher@nsb4].
+2012-11-26 08:45:49,170 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeouts@nsb4].
+2012-11-26 08:45:49,201 [16] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.retries@nsb4].
+2012-11-26 08:45:49,201 [16] DEBUG SatelliteLauncher [(null)] <(null)> - Starting transport helloworld.retries@nsb4 for satellite SecondLevelRetries using 1 thread(s)
+2012-11-26 08:45:49,389 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling next retrieval is at 11/26/2012 08:55:49.
+2012-11-26 08:47:15,267 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 08:47:15,408 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured IncomingReturnMessageMutator
+2012-11-26 08:47:15,408 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured Transport Incoming Message Mutator: IncomingSubscriptionMessageMutator
+2012-11-26 08:47:15,423 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 08:47:15,439 [1] DEBUG NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Trial for NServiceBus v3.3 is still active, trial expires on 10.12.2012.
+2012-11-26 08:47:15,439 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 08:47:15,439 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:15,439 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:15,454 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.PerformanceCountersProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:15,454 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:17,451 [1] DEBUG NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Associated 'NServiceBus.Scheduling.Messages.ScheduledTask' message with 'NServiceBus.Scheduling.ScheduledTaskMessageHandler' handler
+2012-11-26 08:47:17,467 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Scheduling.Messages.ScheduledTask, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: TaskId
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Unicast.Transport.CompletionMessage, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ErrorCode
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ISagaMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ITimeoutState, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.TimeoutMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Expires
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: State
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ClearTimeout
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.EncryptedValue, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: EncryptedBase64Value
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Base64Iv
+2012-11-26 08:47:17,482 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:47:17,982 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: error@nsb4.
+2012-11-26 08:47:17,997 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:47:18,091 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.retries@nsb4.
+2012-11-26 08:47:18,091 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:47:18,153 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeouts@nsb4.
+2012-11-26 08:47:18,153 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:47:18,231 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeoutsdispatcher@nsb4.
+2012-11-26 08:47:18,231 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:47:18,309 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld@nsb4.
+2012-11-26 08:47:18,309 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:47:18,403 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Throttling on message receiving rate is not limited by licensing policy.
+2012-11-26 08:47:18,418 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld@nsb4].
+2012-11-26 08:47:18,699 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling for timeouts at 11/26/2012 08:47:18.
+2012-11-26 08:47:18,699 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeoutsdispatcher@nsb4].
+2012-11-26 08:47:18,699 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeouts@nsb4].
+2012-11-26 08:47:18,730 [10] DEBUG HelloWorld.EndpointConfig [(null)] <(null)> - Calling EndpointConfig
+2012-11-26 08:47:18,730 [10] INFO  EndpointConfig [(null)] <(null)> - Hellog World!
+2012-11-26 08:47:18,730 [16] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.retries@nsb4].
+2012-11-26 08:47:18,730 [16] DEBUG SatelliteLauncher [(null)] <(null)> - Starting transport helloworld.retries@nsb4 for satellite SecondLevelRetries using 1 thread(s)
+2012-11-26 08:47:18,902 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling next retrieval is at 11/26/2012 08:57:18.
+2012-11-26 09:00:05,724 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 09:00:05,865 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured IncomingReturnMessageMutator
+2012-11-26 09:00:05,865 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured Transport Incoming Message Mutator: IncomingSubscriptionMessageMutator
+2012-11-26 09:00:05,880 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 09:00:05,896 [1] DEBUG NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Trial for NServiceBus v3.3 is still active, trial expires on 10.12.2012.
+2012-11-26 09:00:05,896 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 09:00:05,896 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:05,896 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:05,896 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.PerformanceCountersProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:05,896 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:08,049 [1] DEBUG NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Associated 'NServiceBus.Scheduling.Messages.ScheduledTask' message with 'NServiceBus.Scheduling.ScheduledTaskMessageHandler' handler
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Scheduling.Messages.ScheduledTask, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: TaskId
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Unicast.Transport.CompletionMessage, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ErrorCode
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ISagaMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ITimeoutState, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.TimeoutMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Expires
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: State
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ClearTimeout
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.EncryptedValue, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: EncryptedBase64Value
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Base64Iv
+2012-11-26 09:00:08,080 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 09:00:08,579 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: error@nsb4.
+2012-11-26 09:00:08,579 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 09:00:08,688 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.retries@nsb4.
+2012-11-26 09:00:08,688 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 09:00:08,782 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeouts@nsb4.
+2012-11-26 09:00:08,782 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 09:00:08,860 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeoutsdispatcher@nsb4.
+2012-11-26 09:00:08,860 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 09:00:08,953 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld@nsb4.
+2012-11-26 09:00:08,953 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 09:00:09,047 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Throttling on message receiving rate is not limited by licensing policy.
+2012-11-26 09:00:09,078 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld@nsb4].
+2012-11-26 09:00:09,359 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling for timeouts at 11/26/2012 09:00:09.
+2012-11-26 09:00:09,359 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeoutsdispatcher@nsb4].
+2012-11-26 09:00:09,375 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeouts@nsb4].
+2012-11-26 09:00:09,390 [9] DEBUG HelloWorld.EndpointConfig [(null)] <(null)> - Calling EndpointConfig
+2012-11-26 09:00:09,390 [9] INFO  EndpointConfig [(null)] <(null)> - Hellog World!
+2012-11-26 09:00:09,406 [16] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.retries@nsb4].
+2012-11-26 09:00:09,406 [16] DEBUG SatelliteLauncher [(null)] <(null)> - Starting transport helloworld.retries@nsb4 for satellite SecondLevelRetries using 1 thread(s)
+2012-11-26 09:00:09,577 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling next retrieval is at 11/26/2012 09:10:09.

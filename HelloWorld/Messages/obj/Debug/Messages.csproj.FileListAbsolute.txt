@@ -1,0 +1,8 @@
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\bin\Debug\Messages.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\bin\Debug\Messages.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\bin\Debug\NServiceBus.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\bin\Debug\NServiceBus.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\bin\Debug\NServiceBus.xml
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\obj\Debug\Messages.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\obj\Debug\Messages.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache

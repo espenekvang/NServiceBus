@@ -1,0 +1,433 @@
+2012-11-26 08:36:48,527 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 08:36:48,709 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 08:36:48,709 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 08:36:48,726 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:36:48,727 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:36:52,956 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\error does not exist.
+2012-11-26 08:36:52,957 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\error
+2012-11-26 08:36:53,065 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\helloworld.retries does not exist.
+2012-11-26 08:36:53,066 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\helloworld.retries
+2012-11-26 08:36:53,155 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\helloworld.timeouts does not exist.
+2012-11-26 08:36:53,156 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\helloworld.timeouts
+2012-11-26 08:36:53,252 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\helloworld.timeoutsdispatcher does not exist.
+2012-11-26 08:36:53,254 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\helloworld.timeoutsdispatcher
+2012-11-26 08:36:53,359 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\helloworld does not exist.
+2012-11-26 08:36:53,361 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\helloworld
+2012-11-26 08:37:36,007 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 08:37:36,199 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 08:37:36,206 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 08:37:36,214 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:37:36,216 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:14,235 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 08:41:14,329 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured IncomingReturnMessageMutator
+2012-11-26 08:41:14,330 [1] DEBUG NServiceBus.Unicast.BackwardCompatibility.IncomingSubscriptionMessageMutator [(null)] <(null)> - Configured Transport Incoming Message Mutator: IncomingSubscriptionMessageMutator
+2012-11-26 08:41:14,359 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 08:41:14,366 [1] DEBUG NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Trial for NServiceBus v3.3 is still active, trial expires on 10.12.2012.
+2012-11-26 08:41:14,369 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 08:41:14,378 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:14,379 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:14,384 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.PerformanceCountersProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:14,385 [1] DEBUG NServiceBus.Host [(null)] <(null)> - Activating profile handler: NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:16,375 [1] DEBUG NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Associated 'NServiceBus.Scheduling.Messages.ScheduledTask' message with 'NServiceBus.Scheduling.ScheduledTaskMessageHandler' handler
+2012-11-26 08:41:16,400 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Scheduling.Messages.ScheduledTask, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:16,404 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: TaskId
+2012-11-26 08:41:16,413 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,414 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Unicast.Transport.CompletionMessage, NServiceBus.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:16,416 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ErrorCode
+2012-11-26 08:41:16,417 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,419 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ISagaMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:16,420 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 08:41:16,421 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,422 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.ITimeoutState, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:16,424 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.Saga.TimeoutMessage, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:16,425 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Expires
+2012-11-26 08:41:16,426 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,427 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: SagaId
+2012-11-26 08:41:16,429 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,430 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: State
+2012-11-26 08:41:16,431 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,432 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: ClearTimeout
+2012-11-26 08:41:16,434 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,435 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: NServiceBus.EncryptedValue, NServiceBus, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 08:41:16,436 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: EncryptedBase64Value
+2012-11-26 08:41:16,437 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,438 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Handling property: Base64Iv
+2012-11-26 08:41:16,440 [1] DEBUG NServiceBus.Serializers.XML [(null)] <(null)> - Initializing type: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2012-11-26 08:41:16,935 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: error@nsb4.
+2012-11-26 08:41:16,949 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:41:17,046 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.retries@nsb4.
+2012-11-26 08:41:17,048 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:41:17,130 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeouts@nsb4.
+2012-11-26 08:41:17,133 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:41:17,214 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld.timeoutsdispatcher@nsb4.
+2012-11-26 08:41:17,217 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:41:17,302 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Checking if queue exists: helloworld@nsb4.
+2012-11-26 08:41:17,304 [1] DEBUG NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue exists, going to set permissions.
+2012-11-26 08:41:17,400 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Throttling on message receiving rate is not limited by licensing policy.
+2012-11-26 08:41:17,445 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld@nsb4].
+2012-11-26 08:41:17,717 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling for timeouts at 11/26/2012 08:41:17.
+2012-11-26 08:41:17,718 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeoutsdispatcher@nsb4].
+2012-11-26 08:41:17,725 [1] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.timeouts@nsb4].
+2012-11-26 08:41:17,754 [16] DEBUG NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Going to start [1] receiving thread/s for Address [helloworld.retries@nsb4].
+2012-11-26 08:41:17,758 [16] DEBUG SatelliteLauncher [(null)] <(null)> - Starting transport helloworld.retries@nsb4 for satellite SecondLevelRetries using 1 thread(s)
+2012-11-26 08:41:17,934 [13] DEBUG TimeoutPersisterReceiver [(null)] <(null)> - Polling next retrieval is at 11/26/2012 08:51:17.
+2012-11-26 09:45:04,721 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 09:45:04,908 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 09:45:04,908 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 09:45:04,923 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:45:04,923 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:45:08,527 [10] ERROR HelloWorld.MessageSender [(null)] <(null)> - Problem occurred when starting the endpoint.
+Common.Logging.ConfigurationException: The destination queue 'helloworldserver@nsb4' could not be found. You may have misconfigured the destination for this kind of message (Messages.Request) in the MessageEndpointMappings of the UnicastBusConfig section in your configuration file. It may also be the case that the given queue just hasn't been created yet, or has been deleted. ---> NServiceBus.Unicast.Queuing.QueueNotFoundException: Failed to send message to address: [helloworldserver@nsb4] ---> System.Messaging.MessageQueueException: The queue does not exist or you do not have sufficient permissions to perform the operation.
+   at System.Messaging.MessageQueue.MQCacheableInfo.get_WriteHandle()
+   at System.Messaging.MessageQueue.StaleSafeSendMessage(MQPROPS properties, IntPtr transaction)
+   at System.Messaging.MessageQueue.SendInternal(Object obj, MessageQueueTransaction internalTransaction, MessageQueueTransactionType transactionType)
+   at System.Messaging.MessageQueue.Send(Object obj, MessageQueueTransactionType transactionType)
+   at NServiceBus.Unicast.Queuing.Msmq.MsmqMessageSender.NServiceBus.Unicast.Queuing.ISendMessages.Send(TransportMessage message, Address address) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\queuing\NServiceBus.Unicast.Queuing.Msmq\MsmqMessageSender.cs:line 29
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.Queuing.Msmq.MsmqMessageSender.NServiceBus.Unicast.Queuing.ISendMessages.Send(TransportMessage message, Address address) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\queuing\NServiceBus.Unicast.Queuing.Msmq\MsmqMessageSender.cs:line 44
+   at NServiceBus.Unicast.UnicastBus.SendMessage(List`1 addresses, String correlationId, MessageIntentEnum messageIntent, Object[] messages) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 731
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.SendMessage(List`1 addresses, String correlationId, MessageIntentEnum messageIntent, Object[] messages) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 760
+   at NServiceBus.Unicast.UnicastBus.SendMessage(Address address, String correlationId, MessageIntentEnum messageIntent, Object[] messages) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 670
+   at NServiceBus.Unicast.UnicastBus.SendMessage(String destination, String correlationId, MessageIntentEnum messageIntent, Object[] messages) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 664
+   at NServiceBus.Unicast.UnicastBus.NServiceBus.IBus.Send(String destination, Object[] messages) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 572
+   at HelloWorld.MessageSender.Run() in c:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\MessageSender.cs:line 13
+   at NServiceBus.Hosting.Configuration.ConfigManager.<>c__DisplayClass1.<Startup>b__0() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Configuration\ConfigurationManager.cs:line 70
+2012-11-26 09:46:25,377 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 09:46:25,570 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 09:46:25,577 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 09:46:25,584 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:46:25,585 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:46:29,136 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 09:51:05,576 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 09:51:05,748 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 09:51:05,764 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 09:51:05,764 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:51:05,764 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:51:37,797 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 09:51:37,981 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 09:51:37,988 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 09:51:37,996 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:51:37,997 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:51:41,567 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 09:55:17,179 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.Configuration.ConfigurationErrorsException: Unrecognized attribute 'Enpoint'. Note that attribute names are case-sensitive. (C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll.config line 26)
+   at System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   at System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at NServiceBus.Config.ConfigurationSource.DefaultConfigurationSource.NServiceBus.Config.ConfigurationSource.IConfigurationSource.GetConfiguration[T]() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\ConfigurationSource\DefaultConfigurationSource.cs:line 16
+   at NServiceBus.Configure.GetConfigSection[T]() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 340
+   at NServiceBus.ConfigureUnicastBus.GetTimeoutManagerAddress(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\ConfigureUnicastBus.cs:line 32
+   at NServiceBus.ConfigureTimeoutManager.SetupTimeoutManager(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\timeout\NServiceBus.Timeout.Hosting.Windows\Config\ConfigureTimeoutManager.cs:line 38
+   at NServiceBus.ConfigureTimeoutManager.RunTimeoutManager(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\timeout\NServiceBus.Timeout.Hosting.Windows\Config\ConfigureTimeoutManager.cs:line 24
+   at NServiceBus.Hosting.Windows.Roles.Handlers.ServerRoleHandler.ConfigureRole(IConfigureThisEndpoint specifier) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting.Windows\Roles\Handlers\ServerRoleHandler.cs:line 23
+   at NServiceBus.Hosting.Roles.RoleManager.ConfigureBusForEndpoint(IConfigureThisEndpoint specifier) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Roles\RoleManager.cs:line 52
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 122
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+2012-11-26 09:55:38,975 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.ArgumentException: Could not process message endpoint mapping. Problem loading message assembly: Message.Request, Messages ---> System.IO.FileLoadException: Could not load file or assembly 'Message.Request\, Messages' or one of its dependencies. The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.Reflection.AssemblyName.nInit(RuntimeAssembly& assembly, Boolean forIntrospection, Boolean raiseResolveEvent)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NServiceBus.Config.MessageEndpointMapping.GetMessageAssembly(String assemblyName) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\MessageEndpointMapping.cs:line 183
+   --- End of inner exception stack trace ---
+   at NServiceBus.Config.MessageEndpointMapping.GetMessageAssembly(String assemblyName) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\MessageEndpointMapping.cs:line 189
+   at NServiceBus.Config.MessageEndpointMapping.ConfigureEndpointMappingUsingMessagesProperty(Action`2 mapTypeToEndpoint) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\MessageEndpointMapping.cs:line 173
+   at NServiceBus.Config.MessageEndpointMapping.Configure(Action`2 mapTypeToEndpoint) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\MessageEndpointMapping.cs:line 105
+   at NServiceBus.Unicast.Config.ConfigUnicastBus.RegisterMessageOwnersAndBusAddress() in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\ConfigUnicastBus.cs:line 80
+   at NServiceBus.Unicast.Config.ConfigUnicastBus.Configure(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\ConfigUnicastBus.cs:line 42
+   at NServiceBus.ConfigureUnicastBus.UnicastBus(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\ConfigureUnicastBus.cs:line 23
+   at NServiceBus.Hosting.Windows.Roles.Handlers.ServerRoleHandler.ConfigureRole(IConfigureThisEndpoint specifier) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting.Windows\Roles\Handlers\ServerRoleHandler.cs:line 23
+   at NServiceBus.Hosting.Roles.RoleManager.ConfigureBusForEndpoint(IConfigureThisEndpoint specifier) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Roles\RoleManager.cs:line 52
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 122
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+2012-11-26 09:56:01,889 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 09:56:02,008 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 09:56:02,015 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 09:56:02,022 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:56:02,024 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 09:56:05,468 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 10:01:24,741 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 10:01:24,866 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 10:01:24,866 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 10:01:24,881 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:01:24,881 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:01:28,365 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 10:02:09,054 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 10:04:02,748 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 10:04:02,889 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 10:04:02,889 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 10:04:02,904 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:04:02,904 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:04:06,586 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 10:14:07,163 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 10:14:07,297 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 10:14:07,305 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 10:14:07,314 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:14:07,316 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:14:10,267 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 10:18:22,302 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 10:18:22,429 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 10:18:22,436 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 10:18:22,444 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:18:22,446 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:18:26,693 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 10:19:00,984 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 10:19:01,110 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 10:19:01,117 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 10:19:01,125 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:19:01,127 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:19:04,313 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 10:21:25,131 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 10:21:25,258 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 10:21:25,265 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 10:21:25,273 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:21:25,274 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:21:28,513 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 10:26:12,512 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 10:26:12,637 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 10:26:12,653 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 10:26:12,653 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:26:12,653 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 10:26:16,069 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 11:19:18,382 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 11:19:18,513 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 11:19:18,520 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 11:19:18,528 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:19:18,529 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:19:21,421 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 11:19:42,779 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 11:19:42,907 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 11:19:42,914 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 11:19:42,922 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:19:42,923 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:19:46,095 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 11:37:16,812 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 11:37:16,939 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 11:37:16,947 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 11:37:16,955 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:37:16,956 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:37:20,501 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 11:37:37,788 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 11:37:37,912 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 11:37:37,919 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 11:37:37,926 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:37:37,928 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:37:41,466 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 11:38:03,194 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 11:38:03,323 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 11:38:03,330 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 11:38:03,338 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:38:03,339 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:38:06,687 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 11:54:50,840 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 11:54:50,964 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 11:54:50,971 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 11:54:50,979 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:54:50,980 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 11:54:54,153 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:36:40,273 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:36:40,395 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:36:40,402 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:36:40,409 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:36:40,411 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:36:43,560 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:37:41,529 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:37:41,659 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:37:41,666 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:37:41,674 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:37:41,675 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:37:44,781 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:39:26,581 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:39:26,722 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:39:26,737 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:39:26,737 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:39:26,737 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:39:49,647 [7] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:40:03,163 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:40:03,312 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:40:03,321 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:40:03,329 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:40:03,331 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:40:06,359 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:43:28,373 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:43:28,504 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:43:28,512 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:43:28,519 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:43:28,521 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:43:31,735 [7] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:51:10,814 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:51:10,939 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:51:10,955 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:51:10,955 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:51:10,955 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:51:13,963 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:52:31,522 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:52:31,653 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:52:31,661 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:52:31,668 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:52:31,670 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:52:57,051 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:52:57,174 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:52:57,182 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:52:57,189 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:52:57,191 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:53:00,444 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:53:11,916 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:53:12,071 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:53:12,080 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:53:12,088 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:53:12,090 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:53:15,159 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 12:54:29,496 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 12:54:29,640 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 12:54:29,648 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 12:54:29,656 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:54:29,658 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 12:54:32,627 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 13:58:07,432 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 13:58:07,560 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 13:58:07,567 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 13:58:07,575 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:58:07,576 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:58:10,902 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 13:59:12,124 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 13:59:12,253 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 13:59:12,261 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 13:59:12,268 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:59:12,270 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:59:15,942 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 14:00:13,367 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 14:00:13,495 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:00:13,503 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:00:13,510 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:00:13,512 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:00:17,458 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 14:29:06,471 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 14:29:06,593 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:29:06,600 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:29:06,607 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:29:06,608 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:30:52,952 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 14:30:53,079 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:30:53,086 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:30:53,094 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:30:53,095 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:30:56,128 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 14:32:25,655 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 14:32:25,780 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:32:25,787 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:32:25,795 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:32:25,796 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:32:29,097 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 14:33:02,176 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 14:33:02,303 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:33:02,310 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:33:02,319 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:33:02,320 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:33:05,592 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 14:53:21,809 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.Configuration.ConfigurationErrorsException: Unrecognized attribute 'key'. Note that attribute names are case-sensitive. (C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll.config line 31)
+   at System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   at System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at NServiceBus.Config.ConfigurationSource.DefaultConfigurationSource.NServiceBus.Config.ConfigurationSource.IConfigurationSource.GetConfiguration[T]() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\ConfigurationSource\DefaultConfigurationSource.cs:line 16
+   at NServiceBus.Configure.GetConfigSection[T]() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 340
+   at NServiceBus.ConfigureRijndaelEncryptionService.RijndaelEncryptionService(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\encryption\NServiceBus.Encryption.Rijndael.Config\ConfigureRijndaelEncryptionService.cs:line 21
+   at HelloWorld.EndpointConfig.Init() in c:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\EndpointConfig.cs:line 14
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 102
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+2012-11-26 14:53:54,146 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 14:53:54,270 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:53:54,277 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:53:54,284 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:53:54,285 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:53:57,444 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 14:55:50,066 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 14:55:50,201 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:55:50,208 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:55:50,216 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:55:50,217 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:55:53,470 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:19:07,506 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:19:07,632 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:19:07,640 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:19:07,648 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:19:07,649 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:19:10,667 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\superendpoint.retries does not exist.
+2012-11-26 15:19:10,668 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\superendpoint.retries
+2012-11-26 15:19:11,071 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:20:10,532 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:20:10,660 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:20:10,667 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:20:10,675 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:10,676 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:13,885 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:20:39,426 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:20:39,558 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:20:39,565 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:20:39,572 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:39,574 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:42,314 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\superendpoint does not exist.
+2012-11-26 15:20:42,314 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\superendpoint
+2012-11-26 15:20:42,701 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:24:10,470 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:24:10,599 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:24:10,607 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:24:10,615 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:24:10,616 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:24:13,521 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\superendpoint.retries does not exist.
+2012-11-26 15:24:13,523 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\superendpoint.retries
+2012-11-26 15:24:13,737 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\superendpoint does not exist.
+2012-11-26 15:24:13,738 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\superendpoint
+2012-11-26 15:24:14,046 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:24:54,879 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:24:55,010 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:24:55,017 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:24:55,025 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:24:55,026 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:24:58,311 [9] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:25:15,898 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:25:16,030 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:25:16,037 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:25:16,045 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:25:16,046 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:25:18,741 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\superendpoint.retries does not exist.
+2012-11-26 15:25:18,742 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\superendpoint.retries
+2012-11-26 15:25:18,892 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\superendpoint does not exist.
+2012-11-26 15:25:18,893 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\superendpoint
+2012-11-26 15:25:19,259 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:34:32,363 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:34:32,503 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:34:32,503 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:34:32,519 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:34:32,519 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:34:35,795 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:35:00,287 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:35:00,427 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:35:00,427 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:35:00,443 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:35:00,443 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:35:03,812 [6] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:35:58,647 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:35:58,772 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:35:58,772 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:35:58,787 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:35:58,787 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:36:02,032 [10] INFO  MessageSender [(null)] <(null)> - Sent message.
+2012-11-26 15:42:16,501 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Client configured
+2012-11-26 15:42:16,626 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:42:16,626 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:42:16,641 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:42:16,641 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:42:19,871 [6] INFO  MessageSender [(null)] <(null)> - Sent message.

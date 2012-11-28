@@ -1,0 +1,207 @@
+2012-11-26 13:58:07,369 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 13:58:07,574 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 13:58:07,582 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 13:58:07,589 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:58:07,591 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:58:12,915 [Worker.12] WARN  Auth [(null)] <(null)> - User not authorized.
+2012-11-26 13:58:12,947 [Worker.12] WARN  Auth [(null)] <(null)> - User not authorized.
+2012-11-26 13:58:13,062 [Worker.12] WARN  Auth [(null)] <(null)> - User not authorized.
+2012-11-26 13:58:13,151 [Worker.12] WARN  Auth [(null)] <(null)> - User not authorized.
+2012-11-26 13:59:12,069 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 13:59:12,265 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 13:59:12,272 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 13:59:12,279 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:59:12,280 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 13:59:18,157 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 13:59:18,158 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 14:00:13,298 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 14:00:13,493 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:00:13,500 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:00:13,508 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:00:13,509 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:00:19,660 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 14:00:19,661 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 14:32:25,592 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 14:32:25,788 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:32:25,795 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:32:25,803 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:32:25,804 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:32:31,138 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 14:32:31,140 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 14:32:31,143 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 14:32:31,174 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 14:32:31,174 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 14:32:31,175 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 14:33:02,101 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 14:33:02,297 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:33:02,304 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:33:02,312 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:33:02,313 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:33:07,794 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 14:33:07,796 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 14:33:07,798 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 14:54:42,585 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 14:54:42,714 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:54:42,720 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:54:42,728 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:54:42,730 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:54:46,913 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 14:54:46,915 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 14:54:46,916 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 14:55:50,036 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 14:55:50,174 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 14:55:50,181 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 14:55:50,189 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:55:50,190 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 14:55:55,694 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 14:55:55,695 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 14:55:55,698 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:19:07,499 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:19:07,630 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:19:07,638 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:19:07,645 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:19:07,647 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:19:13,320 [Worker.13] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:19:13,322 [Worker.13] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:19:13,324 [Worker.13] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:20:10,542 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:20:10,674 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:20:10,681 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:20:10,688 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:10,689 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:16,098 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:20:16,099 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:20:16,101 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:20:39,432 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:20:39,568 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:20:39,575 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:20:39,582 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:39,583 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:20:45,046 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:20:45,047 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:20:45,050 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:24:10,458 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:24:10,592 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:24:10,599 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:24:10,606 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:24:10,608 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:24:15,284 [Worker.13] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:24:15,286 [Worker.13] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:24:15,287 [Worker.13] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:24:54,883 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:24:55,019 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:24:55,026 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:24:55,033 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:24:55,035 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:25:00,540 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:25:00,542 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:25:00,544 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:25:15,891 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:25:16,024 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:25:16,030 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:25:16,038 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:25:16,039 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:25:21,464 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:25:21,465 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:25:21,468 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:34:32,300 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:34:32,487 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:34:32,503 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:34:32,503 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:34:32,503 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:34:38,088 [Worker.14] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:34:38,088 [Worker.14] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:34:38,088 [Worker.14] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:35:00,224 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:35:00,411 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:35:00,427 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:35:00,427 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:35:00,427 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:35:05,013 [Worker.13] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:35:05,013 [Worker.13] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:35:05,013 [Worker.13] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:35:58,569 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:35:58,772 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:35:58,772 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:35:58,787 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:35:58,787 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:36:04,294 [Worker.12] INFO  Auth [(null)] <(null)> - User authorized
+2012-11-26 15:36:04,294 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Say something
+2012-11-26 15:36:04,294 [Worker.12] INFO  RequestHandler [(null)] <(null)> - Responding to Say something
+2012-11-26 15:42:16,454 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-26 15:42:16,595 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-26 15:42:16,595 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-26 15:42:16,610 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:42:16,610 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-26 15:42:22,289 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:22,429 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:22,523 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:22,632 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:22,741 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:22,819 [Worker.13] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\237.
+2012-11-26 15:42:35,798 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:35,892 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:36,001 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:36,110 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:36,204 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\237
+System.ArgumentNullException: Value cannot be null.
+Parameter name: inputBuffer
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-26 15:42:36,219 [Worker.13] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\237.
