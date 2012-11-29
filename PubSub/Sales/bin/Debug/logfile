@@ -1,127 +1,697 @@
-2012-11-28 11:16:56,619 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:16:56,683 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:16:56,813 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:16:56,821 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:16:56,828 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:16:56,829 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:17:00,893 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales.retries does not exist.
-2012-11-28 11:17:00,894 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales.retries
-2012-11-28 11:17:01,016 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales.timeouts does not exist.
-2012-11-28 11:17:01,017 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales.timeouts
-2012-11-28 11:17:01,130 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales.timeoutsdispatcher does not exist.
-2012-11-28 11:17:01,131 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales.timeoutsdispatcher
-2012-11-28 11:17:01,235 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue nsb4\private$\sales does not exist.
-2012-11-28 11:17:01,237 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: nsb4\private$\sales
-2012-11-28 11:17:44,318 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:17:44,381 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:17:44,506 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:17:44,512 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:17:44,519 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:17:44,521 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:20:42,240 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:20:42,302 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:20:42,434 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:20:42,441 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:20:42,448 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:20:42,449 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:25:57,077 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:25:57,143 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:25:57,281 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:25:57,288 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:25:57,296 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:25:57,297 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:26:30,402 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:26:30,467 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:26:30,599 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:26:30,606 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:26:30,614 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:26:30,615 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:27:47,914 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:27:47,980 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:27:48,119 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:27:48,126 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:27:48,134 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:27:48,135 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:28:37,424 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:28:37,492 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:28:37,628 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:28:37,635 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:28:37,643 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:28:37,644 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:29:57,830 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:29:57,896 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:29:58,034 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:29:58,042 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:29:58,049 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:29:58,051 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:30:34,318 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:30:34,384 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:30:34,521 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:30:34,528 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:30:34,536 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:30:34,537 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:30:43,048 [Worker.14] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 11:31:09,649 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 11:31:09,713 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 11:31:09,847 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 11:31:09,854 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 11:31:09,861 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:31:09,863 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 11:31:15,496 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 12:45:07,077 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 12:45:07,139 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 12:45:07,202 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 12:45:07,209 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 12:45:07,216 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:45:07,218 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:46:24,825 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 12:46:24,889 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 12:46:24,956 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 12:46:24,964 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 12:46:24,972 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:46:24,973 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:46:28,419 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue sales@nsb4
-2012-11-28 12:46:29,650 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing sales@nsb4 to message type Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 12:46:29,876 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 12:46:53,982 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 12:46:54,045 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 12:46:54,111 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 12:46:54,120 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 12:46:54,127 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:46:54,128 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:46:57,523 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue sales@nsb4
-2012-11-28 12:47:04,320 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing sales@nsb4 to message type Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 12:47:41,597 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 12:49:27,662 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 12:49:27,728 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 12:49:27,797 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 12:49:27,805 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 12:49:27,813 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:49:27,814 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:49:31,202 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
-2012-11-28 12:49:34,466 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 12:49:41,727 [Worker.12] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - CustomerStatusUpdatedHandler failed handling message.
-System.NotImplementedException: The method or operation is not implemented.
-   at Sales.Handlers.CustomerStatusUpdatedHandler.Handle(CustomerStatusUpdated message) in c:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\PubSub\Sales\Handlers\CustomerStatusUpdatedHandler.cs:line 10
-2012-11-28 12:49:41,767 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\2127
-NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+2012-11-29 11:07:49,320 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:07:49,382 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:07:49,442 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:07:49,448 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:07:49,455 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:07:49,456 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:07:52,468 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:07:52,772 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.InvalidOperationException: Pub/Sub is not supported for Commands. They should be be sent direct to their logical owner
+   at NServiceBus.Unicast.MessagingBestPractices.AssertIsValidForPubSub(Type messageType) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\MessagingBestPractices.cs:line 56
+   at NServiceBus.Unicast.UnicastBus.Publish[T](T[] messages) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 354
+   at Sales.EndpointConfig.Run() in c:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Sales\EndpointConfig.cs:line 24
+   at NServiceBus.Unicast.Config.StartupRunners.<Run>b__5(IWantToRunWhenTheBusStarts r) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\StartupRunners.cs:line 23
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Unicast.Config.StartupRunners.<Run>b__4(Object obj, EventArgs ev) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast.Config\StartupRunners.cs:line 22
+   at NServiceBus.Unicast.UnicastBus.NServiceBus.IStartableBus.Start(Action startupAction) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 839
+   at NServiceBus.Unicast.UnicastBus.NServiceBus.IStartableBus.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 793
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 32
+2012-11-29 11:08:37,451 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:08:37,512 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:08:37,576 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:08:37,583 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:08:37,590 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:08:37,592 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:08:40,658 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:08:43,194 [Worker.12] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-11-29 11:09:36,939 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:09:36,999 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:09:37,062 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:09:37,069 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:09:37,076 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:09:37,078 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:09:40,276 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:09:42,500 [Worker.12] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-11-29 11:10:48,034 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:10:48,103 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:10:48,175 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:10:48,182 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:10:48,191 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:10:48,193 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:10:52,239 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:10:54,543 [Worker.13] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-11-29 11:11:43,280 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:11:43,352 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:11:43,424 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:11:43,432 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:11:43,440 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:11:43,441 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:11:47,134 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:11:49,437 [Worker.12] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-11-29 11:13:21,234 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:13:21,307 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:13:21,386 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:13:21,395 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:13:21,405 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:13:21,406 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:14:20,412 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:14:20,477 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:14:20,543 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:14:20,550 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:14:20,557 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:14:20,559 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:14:21,976 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.AggregateException: One or more errors occurred. ---> System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73
+   --- End of inner exception stack trace ---
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 81
+   at Raven.Client.Document.DocumentStore.RecoverPendingTransactions() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 410
+   at Raven.Client.Document.DocumentStore.Initialize() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 402
+   at NServiceBus.ConfigureRavenPersistence.EnsureDatabaseExists(DocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 186
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config, IDocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 150
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 54
+   at NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler.NServiceBus.Hosting.Profiles.IHandleProfile.ProfileActivated() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting.Windows\Profiles\Handlers\ProductionProfileHandler.cs:line 13
+   at NServiceBus.Hosting.Profiles.ProfileManager.<ActivateProfileHandlers>b__1c(IHandleProfile hp) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 143
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Hosting.Profiles.ProfileManager.ActivateProfileHandlers() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 144
+   at NServiceBus.Hosting.Profiles.ProfileActivator.Run() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileActivator.cs:line 20
+   at NServiceBus.Configure.<Initialize>b__c(Type t) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 296
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Configure.ForAllTypes[T](Action`1 action) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 317
+   at NServiceBus.Configure.Initialize() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 299
+   at NServiceBus.Configure.CreateBus() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 263
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+---> (Inner Exception #0) System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73<---
+
+2012-11-29 11:15:20,348 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:15:20,415 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:15:20,482 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:15:20,490 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:15:20,497 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:15:20,499 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:16:19,398 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:16:19,464 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:16:19,530 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:16:19,538 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:16:19,546 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:16:19,547 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:16:22,034 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.AggregateException: One or more errors occurred. ---> System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73
+   --- End of inner exception stack trace ---
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 81
+   at Raven.Client.Document.DocumentStore.RecoverPendingTransactions() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 410
+   at Raven.Client.Document.DocumentStore.Initialize() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 402
+   at NServiceBus.ConfigureRavenPersistence.EnsureDatabaseExists(DocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 186
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config, IDocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 150
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 54
+   at NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler.NServiceBus.Hosting.Profiles.IHandleProfile.ProfileActivated() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting.Windows\Profiles\Handlers\ProductionProfileHandler.cs:line 13
+   at NServiceBus.Hosting.Profiles.ProfileManager.<ActivateProfileHandlers>b__1c(IHandleProfile hp) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 143
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Hosting.Profiles.ProfileManager.ActivateProfileHandlers() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 144
+   at NServiceBus.Hosting.Profiles.ProfileActivator.Run() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileActivator.cs:line 20
+   at NServiceBus.Configure.<Initialize>b__c(Type t) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 296
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Configure.ForAllTypes[T](Action`1 action) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 317
+   at NServiceBus.Configure.Initialize() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 299
+   at NServiceBus.Configure.CreateBus() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 263
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+---> (Inner Exception #0) System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73<---
+
+2012-11-29 11:17:12,269 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:17:12,335 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:17:12,405 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:17:12,412 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:17:12,420 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:17:12,421 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:17:13,892 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.AggregateException: One or more errors occurred. ---> System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73
+   --- End of inner exception stack trace ---
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 81
+   at Raven.Client.Document.DocumentStore.RecoverPendingTransactions() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 410
+   at Raven.Client.Document.DocumentStore.Initialize() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentStore.cs:line 402
+   at NServiceBus.ConfigureRavenPersistence.EnsureDatabaseExists(DocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 186
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config, IDocumentStore store) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 150
+   at NServiceBus.ConfigureRavenPersistence.RavenPersistence(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\Config\ConfigureRavenPersistence.cs:line 54
+   at NServiceBus.Hosting.Windows.Profiles.Handlers.ProductionProfileHandler.NServiceBus.Hosting.Profiles.IHandleProfile.ProfileActivated() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting.Windows\Profiles\Handlers\ProductionProfileHandler.cs:line 13
+   at NServiceBus.Hosting.Profiles.ProfileManager.<ActivateProfileHandlers>b__1c(IHandleProfile hp) in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 143
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Hosting.Profiles.ProfileManager.ActivateProfileHandlers() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileManager.cs:line 144
+   at NServiceBus.Hosting.Profiles.ProfileActivator.Run() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\Profiles\ProfileActivator.cs:line 20
+   at NServiceBus.Configure.<Initialize>b__c(Type t) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 296
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NServiceBus.Configure.ForAllTypes[T](Action`1 action) in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 317
+   at NServiceBus.Configure.Initialize() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 299
+   at NServiceBus.Configure.CreateBus() in c:\TeamCity\buildAgent\work\nsb.master_1\src\config\NServiceBus.Config\Configure.cs:line 263
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_1\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+---> (Inner Exception #0) System.IO.IsolatedStorage.IsolatedStorageException: Unable to delete file.
+   at System.IO.IsolatedStorage.IsolatedStorageFile.DeleteFile(String file)
+   at Raven.Client.Document.DTC.PendingTransactionRecovery.Execute(IDatabaseCommands commands) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DTC\PendingTransactionRecovery.cs:line 73<---
+
+2012-11-29 11:22:46,027 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:22:46,095 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:22:46,756 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:22:46,763 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:22:46,770 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:22:46,771 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:23:02,233 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:23:02,298 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:23:02,364 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:23:02,372 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:23:02,380 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:23:02,381 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:23:54,758 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:23:54,825 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:23:54,892 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:23:54,899 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:23:54,907 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:23:54,908 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:24:10,681 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:24:10,748 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:24:10,817 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:24:10,824 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:24:10,831 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:24:10,833 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:26:17,397 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:26:17,458 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:26:17,521 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:26:17,528 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:26:17,535 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:26:17,536 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:26:20,759 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:26:22,982 [Worker.12] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-11-29 11:27:17,528 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:27:17,590 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:27:17,653 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:27:17,660 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:27:17,667 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:27:17,668 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:27:20,877 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:27:23,088 [Worker.12] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-11-29 11:29:25,797 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:29:25,860 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:29:25,923 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:29:25,930 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:29:25,938 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:29:25,939 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:29:28,973 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:29:31,195 [Worker.12] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-11-29 11:31:07,401 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:31:07,465 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:31:07,527 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:31:07,534 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:31:07,542 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:31:07,543 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:31:47,635 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:31:47,697 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:31:47,761 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:31:47,768 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:31:47,775 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:31:47,776 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:31:50,769 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 11:32:15,665 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 11:33:24,793 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 11:33:24,854 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 11:33:24,913 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 11:33:24,921 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 11:33:24,927 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:33:24,929 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 11:33:27,881 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:14:25,232 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:14:25,294 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:14:25,357 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:14:25,364 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:14:25,371 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:14:25,372 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:14:28,342 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:16:52,801 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:16:52,863 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:16:52,925 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:16:52,932 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:16:52,939 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:16:52,941 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:16:55,979 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:17:21,096 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:17:21,159 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:17:21,220 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:17:21,227 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:17:21,234 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:17:21,236 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:17:24,340 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:17:26,468 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:27:30,305 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:27:30,368 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:27:30,431 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:27:30,439 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:27:30,446 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:27:30,448 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:27:33,471 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:27:35,615 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:27:35,908 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:28:27,266 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:28:27,330 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:28:27,390 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:28:27,396 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:28:27,403 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:28:27,404 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:28:30,413 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:28:32,578 [Worker.13] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:28:32,837 [Worker.13] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:30:47,593 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:30:47,654 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:30:47,715 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:30:47,722 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:30:47,730 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:30:47,731 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:30:50,792 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:30:52,933 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:30:53,192 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:32:10,135 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
    at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
    at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
    at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
    at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
-2012-11-28 12:53:10,495 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 12:53:10,560 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 12:53:10,627 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 12:53:10,634 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 12:53:10,642 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:53:10,643 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:53:14,128 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
-2012-11-28 12:53:16,368 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2012-11-28 12:55:54,858 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
-2012-11-28 12:55:54,925 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
-2012-11-28 12:55:54,995 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
-2012-11-28 12:55:55,005 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
-2012-11-28 12:55:55,013 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:55:55,017 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
-2012-11-28 12:55:58,518 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
-2012-11-28 12:56:00,856 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing crm@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:32:10,208 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:32:10,246 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:32:10,285 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:32:10,331 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:32:10,353 [Worker.12] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718.
+2012-11-29 12:32:35,101 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:32:35,162 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:32:35,223 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:32:35,230 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:32:35,237 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:32:35,238 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:33:09,901 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:33:09,966 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:33:10,027 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:33:10,035 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:33:10,043 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:33:10,044 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:33:13,103 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:33:15,243 [Worker.13] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:33:15,419 [Worker.13] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:33:15,474 [Worker.13] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:33:15,594 [Worker.13] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:33:19,066 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:33:19,122 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:33:19,165 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:33:19,207 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:33:19,253 [Worker.13] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718
+System.InvalidOperationException: No handlers could be found for message type: Sales.Commands.CancelOrder
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:33:19,294 [Worker.13] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\4718.
+2012-11-29 12:34:12,415 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:34:12,485 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:34:12,552 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:34:12,559 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:34:12,566 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:34:12,567 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:34:15,558 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:34:17,696 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:34:17,866 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:34:18,135 [Worker.12] INFO  NServiceBus.Sagas.Impl.SagaDispatcherFactory [(null)] <(null)> - Could not find a saga for the message type Sales.Commands.CancelOrder with id a7425b05-e42f-4a14-8154-b8beb807a675\4718. Going to invoke SagaNotFoundHandlers.
+2012-11-29 12:36:20,712 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:36:20,778 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:36:20,844 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:36:20,852 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:36:20,859 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:36:20,860 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:36:23,961 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:36:25,110 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:36:25,340 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:36:25,385 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:36:25,509 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:37:36,730 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:37:36,793 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:37:36,862 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:37:36,870 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:37:36,877 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:37:36,878 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:37:40,311 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:37:42,469 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:37:42,667 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:37:43,042 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:43,239 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:43,447 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:43,664 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:43,838 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:43,874 [Worker.12] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876.
+2012-11-29 12:37:56,003 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:56,181 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:56,376 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:56,614 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:56,794 [Worker.12] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:37:56,818 [Worker.12] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\4876.
+2012-11-29 12:39:12,333 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:39:12,402 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:39:12,471 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:39:12,478 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:39:12,485 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:39:12,486 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:39:15,505 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:39:17,647 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:39:17,924 [Worker.12] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:39:56,950 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:39:57,017 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:39:57,082 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:39:57,089 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:39:57,096 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:39:57,098 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:40:54,962 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:40:57,149 [Worker.5] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:40:57,365 [Worker.5] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderReceived, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:40:57,776 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:40:57,952 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:40:58,155 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:40:58,447 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:40:58,620 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:40:58,652 [Worker.5] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972.
+2012-11-29 12:41:10,905 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:41:11,126 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:41:11,376 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:41:11,575 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:41:11,782 [Worker.5] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972
+NServiceBus.Persistence.Raven.ConcurrencyException: A saga with the same Unique property already existed in the storage. See the inner exception for further details ---> Raven.Abstractions.Exceptions.ConcurrencyException: PUT attempted on document 'Sales.Sagas.ByersRemorseData/OrderId/3842cac4-b9a0-8223-0dcc-509a6f75849b' using a non current etag
+   at Raven.Client.Connection.ServerClient.DirectBatch(IEnumerable`1 commandDatas, String operationUrl) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 927
+   at Raven.Client.Connection.ServerClient.<>c__DisplayClass56.<Batch>b__55(String u) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Connection.ServerClient.TryOperation[T](Func`2 operation, String operationUrl, Boolean avoidThrowing, T& result) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 223
+   at Raven.Client.Connection.ServerClient.ExecuteWithReplication[T](String method, Func`2 operation) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 193
+   at Raven.Client.Connection.ServerClient.Batch(IEnumerable`1 commandDatas) in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Connection\ServerClient.cs:line 900
+   at Raven.Client.Document.DocumentSession.SaveChanges() in c:\Work\ravendb-1.0\Raven.Client.Lightweight\Document\DocumentSession.cs:line 447
+   at NServiceBus.Persistence.Raven.RavenSessionFactory.SaveChanges() in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\Persistence\RavenPersistence\NServiceBus.Persistence.Raven\RavenSessionFactory.cs:line 62
+   --- End of inner exception stack trace ---
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1303
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e) in c:\TeamCity\buildAgent\work\nsb.master_1\src\unicast\NServiceBus.Unicast\UnicastBus.cs:line 1220
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg) in c:\TeamCity\buildAgent\work\nsb.master_1\src\impl\unicast\transport\NServiceBus.Unicast.Transport.Transactional\TransactionalTransport.cs:line 480
+2012-11-29 12:41:11,808 [Worker.5] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=a7425b05-e42f-4a14-8154-b8beb807a675\4972.
+2012-11-29 12:42:16,250 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:42:16,316 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:42:16,382 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:42:16,389 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:42:16,396 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:42:16,397 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:42:19,337 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Events.Crm.CustomerStatusUpdated, Events.Crm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue crm@nsb4
+2012-11-29 12:42:28,488 [Worker.13] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing shipping@nsb4 to message type Events.Sales.OrderAccepted, Events.Sales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-11-29 12:44:14,479 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-11-29 12:44:14,543 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-11-29 12:44:14,604 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2012-11-29 12:44:14,610 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2012-11-29 12:44:14,617 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-11-29 12:44:14,618 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c

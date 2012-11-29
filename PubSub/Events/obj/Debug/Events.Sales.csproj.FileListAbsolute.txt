@@ -10,3 +10,16 @@ c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events\bi
 c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events\bin\Debug\Events.Sales.pdb
 c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events\obj\Debug\Events.Sales.dll
 c:\Users\programutvikling\documents\visual studio 2012\Projects\PubSub\Events\obj\Debug\Events.Sales.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\Events.Sales.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\Events.Sales.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\log4net.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\NServiceBus.Core.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\NServiceBus.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\log4net.xml
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\NServiceBus.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\NServiceBus.xml
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\NServiceBus.Core.pdb
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\bin\Debug\NServiceBus.Core.xml
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\obj\Debug\Events.Sales.csprojResolveAssemblyReference.cache
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\obj\Debug\Events.Sales.dll
+C:\Users\ProgramUtvikling\Documents\Visual Studio 2012\Projects\NServiceBus\PubSub\Events\obj\Debug\Events.Sales.pdb

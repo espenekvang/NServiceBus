@@ -1,7 +1,7 @@
-using Events;
-using Events.Sales;
+using System;
 using NServiceBus;
 using NServiceBus.Unicast;
+using Sales.Commands;
 
 namespace Sales 
 {
@@ -21,13 +21,13 @@ namespace Sales
 
 	    public void Run()
 	    {
-	        var orderAccepted = new OrderAccepted {CustomerId = 1, OrderValue = 10000};
+	        var placeOrder = new PlaceOrder {OrderId = 1};
+            Bus.SendLocal(placeOrder);
 
-	        for (int i = 0; i < 10; i++)
-	        {
-                Bus.Publish(orderAccepted);    
-	        }
-	        
+	      //  Console.ReadLine();
+
+	        //var cancelOrder = new CancelOrder {OrderId = 1};
+	        //Bus.SendLocal(cancelOrder);
 	    }
     }
 }
